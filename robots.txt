@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bonout.github.io/alpow-site/sitemap.xml

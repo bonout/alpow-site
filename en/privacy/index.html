@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy · Alpow</title>
+<meta name="description" content="Snow forecasts and a powder score for French Alps and Pyrenees ski resorts, with the official avalanche bulletin, always free. iPhone app.">
+<link rel="canonical" href="https://bonout.github.io/alpow-site/en/privacy/">
+<link rel="alternate" hreflang="en" href="https://bonout.github.io/alpow-site/en/privacy/">
+<link rel="alternate" hreflang="fr" href="https://bonout.github.io/alpow-site/privacy/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Privacy · Alpow">
+<meta property="og:description" content="Snow forecasts and a powder score for French Alps and Pyrenees ski resorts, with the official avalanche bulletin, always free. iPhone app.">
+<meta property="og:url" content="https://bonout.github.io/alpow-site/en/privacy/">
+<meta property="og:image" content="https://bonout.github.io/alpow-site/assets/og-en.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#0a64d8">
+<link rel="icon" href="../../assets/icon.png">
+<link rel="apple-touch-icon" href="../../assets/icon.png">
+<link rel="stylesheet" href="../../assets/site.css">
+</head>
+<body>
+<header class="bar">
+<a class="brand" href="../../"><img src="../../assets/icon.png" alt="" width="32" height="32">Alpow</a>
+<nav><a href="../../en/">Home</a><a href="../../en/privacy/" aria-current="page">Privacy</a><a href="../../en/terms/">Terms</a><a href="../../en/credits/">Credits</a><a href="../../en/contact/">Contact</a><a class="lang" href="../../privacy/" hreflang="fr">Français</a></nav>
+</header>
+<main>
+<article class="prose"><h1>Privacy</h1>
+<p>Last updated: 2 November 2026.</p>
+<p>Alpow has no account, no ads and no third-party analytics or tracking. Nothing is sold or shared for advertising.</p>
+<ul>
+<li><strong>Favourite resorts</strong> stay on your iPhone. The app asks the server for those resorts' forecasts without attaching any identifier.</li>
+<li><strong>Anonymous device ID</strong>: a random ID created by the app, not linked to you or your Apple ID. It is used to deliver the alerts you asked for and to rate-limit reports. Reports show an author code derived from this ID and the resort, so two reports at two different resorts cannot be linked.</li>
+<li><strong>Alerts</strong>: when you turn on an alert, the app sends the server your Apple push token (APNs), the app language, the resorts and thresholds you chose, and whether you want new-bulletin alerts. All of it is deleted from the server when you turn every alert off.</li>
+<li><strong>Location</strong>: requested only at your first snow report, "while using the app", to check on the iPhone that you are inside the ski area. No coordinates or GPS track are sent: the server receives the resort and the time you were there, which amounts to a coarse location ("at this resort, at this time").</li>
+<li><strong>Snow reports</strong>: the resort, the tags you picked (e.g. "Powder", "Wind"), the time you were on site and the time you sent it. No photos, no free text. They are shown for 48 hours and deleted from the server after 30 days.</li>
+<li><strong>App Attest</strong>: Apple attests that the request comes from a genuine copy of the app. The server keeps the public key your iPhone generated for this; no personal data is sent.</li>
+<li><strong>Verdict of the day</strong>: drafted with the help of an AI (Anthropic) from the weather forecasts, then reviewed. No user data is sent to that service.</li>
+<li><strong>Base maps</strong>: IGN maps (plan and slopes) load directly from IGN's Géoplateforme (data.geopf.fr), which sees your IP address and the area on screen, like any web server. The Apple map comes from Apple Maps.</li>
+<li><strong>Hosting</strong>: the Alpow server is hosted in France by the publisher. Requests pass through Cloudflare, which routes the traffic. The Alpow server does not record IP addresses.</li>
+</ul>
+<p>You can erase everything at any time in the app: Home › Settings and credits › Erase my data. This deletes the ID, reports, alerts and push token from the server, then creates a new ID.</p>
+<p>Controller: Etienne Fontaine. To exercise your rights (access, correction, erasure, objection) or ask a question, see the Contact page. You can also complain to the CNIL (cnil.fr).</p></article>
+</main>
+<footer>
+<p class="disclaimer">Alpow does not replace the official bulletin or your own judgement. In the mountains, you are responsible for your decisions.</p>
+<p>© 2026 Etienne Fontaine · Alpow</p>
+</footer>
+<script src="../../assets/site.js" defer></script>
+</body>
+</html>
