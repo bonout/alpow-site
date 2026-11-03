@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "S4WRT9TXXJ.app.alpow.ios"
+        ],
+        "components": [
+          {
+            "/": "/s/*",
+            "comment": "Resort pages"
+          }
+        ]
+      }
+    ]
+  }
+}
