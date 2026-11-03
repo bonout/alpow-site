@@ -31,9 +31,34 @@
     if (node) node.textContent = value;
   };
 
+  const params = new URLSearchParams(location.search);
+  const wantedDay = /^\d{4}-\d{2}-\d{2}$/.test(params.get("day") || "") ? params.get("day") : null;
+  const friend = (params.get("prenom") || "")
+    .replace(/[^\p{L} '-]/gu, "")
+    .replace(/\s+/g, " ")
+    .trim()
+    .slice(0, 20)
+    .trim();
+  const longDay = (iso) =>
+    new Intl.DateTimeFormat(locale, { weekday: "long", day: "numeric", month: "long", timeZone: "Europe/Paris" }).format(new Date(`${iso}T12:00:00Z`));
+  const fill = (template, values) => template.replace(/\{(\w+)\}/g, (_, key) => values[key]);
+
+  function invite(days) {
+    if (!wantedDay) return null;
+    const chosen = days.find((entry) => entry.date === wantedDay) || null;
+    const values = { name: friend, day: longDay(wantedDay) };
+    text("invite-title", fill(friend ? strings.invitedBy : strings.invited, values));
+    text(
+      "invite-detail",
+      chosen ? fill(strings.invitedDetail, { score: number(chosen.score, 1), snow: chosen.fresh_snow_cm || 0 }) : strings.invitedPast,
+    );
+    $("invite").hidden = false;
+    return chosen;
+  }
+
   function render(detail, bulletin) {
     const days = (detail.forecast && detail.forecast.days) || [];
-    const today = days[0];
+    const today = invite(days) || days[0];
     if (today) {
       text("score", number(today.score, 1));
       text("score-day", `${strings.scoreFor} ${day(today.date)}`);
