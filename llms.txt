@@ -1,0 +1,48 @@
+# Alpow
+
+> Alpow est une app iPhone de prévisions de neige pour les stations de ski françaises des Alpes et des Pyrénées : l'indice poudreuse de chaque station, de 0 à 5, et le bulletin avalanche officiel de Météo-France, affiché mot pour mot et toujours gratuit.
+
+Pour chaque station, Alpow croise quatre modèles météo (AROME et ARPEGE de Météo-France, IFS de l'ECMWF, ICON du DWD) et les résume en l'indice poudreuse, de 0 à 5, avec une confiance qui dépend de l'accord entre les modèles. Chaque prévision affiche son heure de mise à jour et ses sources. Le bulletin d'estimation du risque d'avalanche (BERA) de Météo-France est repris tel que publié, avec le lien vers la source, gratuit pour tout le monde et sans compte ; son texte n'est jamais résumé par une IA, et Alpow n'indique jamais si une pente peut être skiée sans risque. L'app est sans compte, sans publicité et sans outil d'analyse tiers. Elle sort sur l'App Store fin novembre, avec l'ouverture des premières stations, gratuite au lancement.
+
+In English: Alpow is an iPhone app with snow forecasts for French ski resorts in the Alps and the Pyrenees. It blends four weather models into a 0 to 5 Powder score per resort, shows the official Météo-France avalanche bulletin (BERA) word for word and always free, and is coming to the App Store in late November, as the first resorts open.
+
+## Pages
+
+- [Accueil](https://alpow.bonout.com/) : l'app, l'indice poudreuse, la carte, le bulletin avalanche et la FAQ, en français.
+- [Home](https://alpow.bonout.com/en/) : the same page in English.
+- [Crédits des données](https://alpow.bonout.com/credits/) ([en](https://alpow.bonout.com/en/credits/)) : chaque source de données et sa licence.
+- [Support](https://alpow.bonout.com/support/) ([en](https://alpow.bonout.com/en/support/)) : contact et effacement des données.
+- [Confidentialité](https://alpow.bonout.com/confidentialite/) ([en](https://alpow.bonout.com/en/privacy/)) : ce que l'app envoie au serveur, et ce qu'elle garde sur l'iPhone.
+- [Conditions d'utilisation](https://alpow.bonout.com/conditions/) ([en](https://alpow.bonout.com/en/terms/)) : prévisions sans garantie, bulletin officiel tel quel, retours de neige.
+- [Où skier ce week-end ?](https://alpow.bonout.com/ce-week-end/) ([en](https://alpow.bonout.com/en/this-weekend/)) : les stations pilotes classées par indice poudreuse pour le samedi et le dimanche qui viennent, régénéré chaque jour.
+- [Enneigement et météo à Tignes - Val d'Isère](https://alpow.bonout.com/stations/tignes-val-d-isere/) ([en](https://alpow.bonout.com/en/resorts/tignes-val-d-isere/)) : Savoie, Haute-Tarentaise.
+- [Enneigement et météo à Val Thorens](https://alpow.bonout.com/stations/val-thorens/) ([en](https://alpow.bonout.com/en/resorts/val-thorens/)) : Savoie, Vanoise.
+- [Enneigement et météo à Brévent/Flégère (Chamonix)](https://alpow.bonout.com/stations/chamonix-brevent-flegere/) ([en](https://alpow.bonout.com/en/resorts/chamonix-brevent-flegere/)) : Haute-Savoie, Mont-Blanc.
+- [Enneigement et météo aux Grands Montets](https://alpow.bonout.com/stations/chamonix-grands-montets/) ([en](https://alpow.bonout.com/en/resorts/chamonix-grands-montets/)) : Haute-Savoie, Mont-Blanc.
+- [Enneigement et météo à Courchevel](https://alpow.bonout.com/stations/courchevel/) ([en](https://alpow.bonout.com/en/resorts/courchevel/)) : Savoie, Vanoise.
+- [Enneigement et météo à Méribel](https://alpow.bonout.com/stations/meribel/) ([en](https://alpow.bonout.com/en/resorts/meribel/)) : Savoie, Vanoise.
+- [Enneigement et météo aux Arcs](https://alpow.bonout.com/stations/les-arcs/) ([en](https://alpow.bonout.com/en/resorts/les-arcs/)) : Savoie, Haute-Tarentaise.
+- [Enneigement et météo à La Plagne](https://alpow.bonout.com/stations/la-plagne/) ([en](https://alpow.bonout.com/en/resorts/la-plagne/)) : Savoie, Vanoise.
+- [Enneigement et météo à Avoriaz](https://alpow.bonout.com/stations/avoriaz/) ([en](https://alpow.bonout.com/en/resorts/avoriaz/)) : Haute-Savoie, Chablais.
+- [Enneigement et météo à Alpe d'Huez Grand Domaine](https://alpow.bonout.com/stations/alpe-d-huez/) ([en](https://alpow.bonout.com/en/resorts/alpe-d-huez/)) : Isère, Grandes-Rousses.
+- [Enneigement et météo à Megève](https://alpow.bonout.com/stations/megeve/) ([en](https://alpow.bonout.com/en/resorts/megeve/)) : Haute-Savoie, Mont-Blanc.
+- [Enneigement et météo aux Deux Alpes](https://alpow.bonout.com/stations/les-deux-alpes/) ([en](https://alpow.bonout.com/en/resorts/les-deux-alpes/)) : Hautes-Alpes, Oisans.
+- [Enneigement et météo à Serre-Chevalier](https://alpow.bonout.com/stations/serre-chevalier/) ([en](https://alpow.bonout.com/en/resorts/serre-chevalier/)) : Hautes-Alpes, Pelvoux.
+- [Enneigement et météo à Font-Romeu Pyrénées 2000, Font-Romeu](https://alpow.bonout.com/stations/font-romeu/) ([en](https://alpow.bonout.com/en/resorts/font-romeu/)) : Pyrénées-Orientales, Capcir Puymorens.
+- [Enneigement et météo à Saint-Lary](https://alpow.bonout.com/stations/saint-lary/) ([en](https://alpow.bonout.com/en/resorts/saint-lary/)) : Hautes-Pyrénées, Haute-Bigorre.
+- [Enneigement et météo à Grand Tourmalet](https://alpow.bonout.com/stations/grand-tourmalet/) ([en](https://alpow.bonout.com/en/resorts/grand-tourmalet/)) : Hautes-Pyrénées, Haute-Bigorre.
+- [Enneigement et météo à Cauterets Cirque du Lys](https://alpow.bonout.com/stations/cauterets/) ([en](https://alpow.bonout.com/en/resorts/cauterets/)) : Hautes-Pyrénées, Haute-Bigorre.
+- [Enneigement et météo à Peyragudes](https://alpow.bonout.com/stations/peyragudes/) ([en](https://alpow.bonout.com/en/resorts/peyragudes/)) : Haute-Garonne, Aure Louron.
+- [Enneigement et météo à Dévoluy](https://alpow.bonout.com/stations/devoluy/) ([en](https://alpow.bonout.com/en/resorts/devoluy/)) : Hautes-Alpes, Devoluy.
+- [Enneigement et météo aux Ménuires](https://alpow.bonout.com/stations/les-menuires/) ([en](https://alpow.bonout.com/en/resorts/les-menuires/)) : Savoie, Vanoise.
+
+## Sources des données
+
+- Météo-France : BERA, modèles AROME et ARPEGE, contours des massifs. Licence Ouverte Etalab 2.0.
+- ECMWF : prévisions IFS en données ouvertes, licence CC BY 4.0.
+- Deutscher Wetterdienst : modèle ICON-EU, licence CC BY 4.0.
+- IGN : carte des pentes, Plan IGN, altimétrie RGE ALTI. Licence Ouverte Etalab 2.0.
+- OpenStreetMap et OpenSkiMap : domaines skiables, pistes et remontées, licence ODbL.
+- Sites officiels des stations, offices de tourisme et service-public.gouv.fr : dates d'ouverture, numéros de secours et liens, chacun avec sa source et la date de sa vérification.
+
+L'indice poudreuse et la confiance sont calculés par Alpow ; ce ne sont pas des produits de ces organismes.
