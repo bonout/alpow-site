@@ -10,6 +10,10 @@ In English: Alpow is an iPhone app with snow forecasts for French ski resorts in
 
 - [Accueil](https://alpow.bonout.com/) : l'app, l'indice poudreuse, la carte, le bulletin avalanche et la FAQ, en français.
 - [Home](https://alpow.bonout.com/en/) : the same page in English.
+- [Le BERA, bulletin avalanche officiel](https://alpow.bonout.com/bera/) ([en](https://alpow.bonout.com/en/avalanche-bulletin/)) : ce qu'est le bulletin de Météo-France, où le lire, et comment Alpow l'affiche tel quel.
+- [Annuaire des massifs BERA](https://alpow.bonout.com/bera/massifs/) ([en](https://alpow.bonout.com/en/avalanche-bulletin/massifs/)) : les massifs des Alpes et des Pyrénées d'après la liste officielle de Météo-France, avec [Haute-Tarentaise](https://alpow.bonout.com/bera/haute-tarentaise/) et [Mont-Blanc](https://alpow.bonout.com/bera/mont-blanc/) en exemples.
+- [Notifications](https://alpow.bonout.com/notifications/) ([en](https://alpow.bonout.com/en/notifications/)) : [nouveau BERA publié](https://alpow.bonout.com/notifications/bera/) et [neige fraîche prévue sur tes stations](https://alpow.bonout.com/notifications/neige-fraiche/), deux notifications distinctes.
+- [Ski de randonnée : BERA et météo](https://alpow.bonout.com/ski-de-randonnee/) ([en](https://alpow.bonout.com/en/ski-touring/)) : bulletin officiel, prévisions et observations datées, sans conseil d'itinéraire.
 - [Crédits des données](https://alpow.bonout.com/credits/) ([en](https://alpow.bonout.com/en/credits/)) : chaque source de données et sa licence.
 - [Support](https://alpow.bonout.com/support/) ([en](https://alpow.bonout.com/en/support/)) : contact et effacement des données.
 - [Confidentialité](https://alpow.bonout.com/confidentialite/) ([en](https://alpow.bonout.com/en/privacy/)) : ce que l'app envoie au serveur, et ce qu'elle garde sur l'iPhone.
@@ -17,21 +21,21 @@ In English: Alpow is an iPhone app with snow forecasts for French ski resorts in
 - [Où skier ce week-end ?](https://alpow.bonout.com/ce-week-end/) ([en](https://alpow.bonout.com/en/this-weekend/)) : les stations pilotes classées par indice poudreuse pour le samedi et le dimanche qui viennent, régénéré chaque jour.
 - [Enneigement et météo à Tignes - Val d'Isère](https://alpow.bonout.com/stations/tignes-val-d-isere/) ([en](https://alpow.bonout.com/en/resorts/tignes-val-d-isere/)) : Savoie, Haute-Tarentaise.
 - [Enneigement et météo à Val Thorens](https://alpow.bonout.com/stations/val-thorens/) ([en](https://alpow.bonout.com/en/resorts/val-thorens/)) : Savoie, Vanoise.
-- [Enneigement et météo à Billets et forfaits](https://alpow.bonout.com/stations/chamonix-brevent-flegere/) ([en](https://alpow.bonout.com/en/resorts/chamonix-brevent-flegere/)) : Haute-Savoie, Mont-Blanc.
+- [Enneigement et météo à Brévent/Flégère (Chamonix)](https://alpow.bonout.com/stations/chamonix-brevent-flegere/) ([en](https://alpow.bonout.com/en/resorts/chamonix-brevent-flegere/)) : Haute-Savoie, Mont-Blanc.
 - [Enneigement et météo aux Grands Montets](https://alpow.bonout.com/stations/chamonix-grands-montets/) ([en](https://alpow.bonout.com/en/resorts/chamonix-grands-montets/)) : Haute-Savoie, Mont-Blanc.
 - [Enneigement et météo à Courchevel](https://alpow.bonout.com/stations/courchevel/) ([en](https://alpow.bonout.com/en/resorts/courchevel/)) : Savoie, Vanoise.
 - [Enneigement et météo à Méribel](https://alpow.bonout.com/stations/meribel/) ([en](https://alpow.bonout.com/en/resorts/meribel/)) : Savoie, Vanoise.
 - [Enneigement et météo aux Arcs](https://alpow.bonout.com/stations/les-arcs/) ([en](https://alpow.bonout.com/en/resorts/les-arcs/)) : Savoie, Haute-Tarentaise.
 - [Enneigement et météo à La Plagne](https://alpow.bonout.com/stations/la-plagne/) ([en](https://alpow.bonout.com/en/resorts/la-plagne/)) : Savoie, Vanoise.
 - [Enneigement et météo à Avoriaz](https://alpow.bonout.com/stations/avoriaz/) ([en](https://alpow.bonout.com/en/resorts/avoriaz/)) : Haute-Savoie, Chablais.
-- [Enneigement et météo à Bienvenue à l'Espace Alpe d'Huez](https://alpow.bonout.com/stations/alpe-d-huez/) ([en](https://alpow.bonout.com/en/resorts/alpe-d-huez/)) : Isère, Grandes-Rousses.
+- [Enneigement et météo à Alpe d'Huez Grand Domaine](https://alpow.bonout.com/stations/alpe-d-huez/) ([en](https://alpow.bonout.com/en/resorts/alpe-d-huez/)) : Isère, Grandes-Rousses.
 - [Enneigement et météo à Megève](https://alpow.bonout.com/stations/megeve/) ([en](https://alpow.bonout.com/en/resorts/megeve/)) : Haute-Savoie, Mont-Blanc.
 - [Enneigement et météo aux Deux Alpes](https://alpow.bonout.com/stations/les-deux-alpes/) ([en](https://alpow.bonout.com/en/resorts/les-deux-alpes/)) : Hautes-Alpes, Oisans.
-- [Enneigement et météo à Serre Chevalier](https://alpow.bonout.com/stations/serre-chevalier/) ([en](https://alpow.bonout.com/en/resorts/serre-chevalier/)) : Hautes-Alpes, Pelvoux.
+- [Enneigement et météo à Serre-Chevalier](https://alpow.bonout.com/stations/serre-chevalier/) ([en](https://alpow.bonout.com/en/resorts/serre-chevalier/)) : Hautes-Alpes, Pelvoux.
 - [Enneigement et météo à Font-Romeu Pyrénées 2000](https://alpow.bonout.com/stations/font-romeu/) ([en](https://alpow.bonout.com/en/resorts/font-romeu/)) : Pyrénées-Orientales, Capcir Puymorens.
 - [Enneigement et météo à Saint-Lary](https://alpow.bonout.com/stations/saint-lary/) ([en](https://alpow.bonout.com/en/resorts/saint-lary/)) : Hautes-Pyrénées, Haute-Bigorre.
 - [Enneigement et météo à Grand Tourmalet](https://alpow.bonout.com/stations/grand-tourmalet/) ([en](https://alpow.bonout.com/en/resorts/grand-tourmalet/)) : Hautes-Pyrénées, Haute-Bigorre.
-- [Enneigement et météo à Cauterets](https://alpow.bonout.com/stations/cauterets/) ([en](https://alpow.bonout.com/en/resorts/cauterets/)) : Hautes-Pyrénées, Haute-Bigorre.
+- [Enneigement et météo à Cauterets Cirque du Lys](https://alpow.bonout.com/stations/cauterets/) ([en](https://alpow.bonout.com/en/resorts/cauterets/)) : Hautes-Pyrénées, Haute-Bigorre.
 - [Enneigement et météo à Peyragudes](https://alpow.bonout.com/stations/peyragudes/) ([en](https://alpow.bonout.com/en/resorts/peyragudes/)) : Haute-Garonne, Aure Louron.
 - [Enneigement et météo à Dévoluy](https://alpow.bonout.com/stations/devoluy/) ([en](https://alpow.bonout.com/en/resorts/devoluy/)) : Hautes-Alpes, Devoluy.
 - [Enneigement et météo aux Ménuires](https://alpow.bonout.com/stations/les-menuires/) ([en](https://alpow.bonout.com/en/resorts/les-menuires/)) : Savoie, Vanoise.
