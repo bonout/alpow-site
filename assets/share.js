@@ -94,7 +94,8 @@
     } else {
       text("danger-label", strings.noBulletin);
     }
-    if (bulletin && bulletin.official_url) $("bulletin").href = bulletin.official_url;
+    // The PDF Météo-France published for this bulletin when the API knows it, its mountain page otherwise.
+    if (bulletin && (bulletin.official_pdf_url || bulletin.official_url)) $("bulletin").href = bulletin.official_pdf_url || bulletin.official_url;
     const reports = (detail.reports && detail.reports.tags) || [];
     const list = $("reports");
     if (reports.length) {
