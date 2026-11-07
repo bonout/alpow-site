@@ -82,9 +82,9 @@
       }),
     );
     const total = days.slice(0, 3).reduce((sum, entry) => sum + (entry.snowfall_cm || 0), 0);
-    text("snow-total", `${total} cm`);
+    text("snow-total", `${total}\u00a0cm`);
     const limits = days.slice(0, 3).flatMap((entry) => [entry.rain_snow_limit_min_m, entry.rain_snow_limit_max_m]).filter(Boolean);
-    text("limit", limits.length ? `${number(Math.min(...limits))} – ${number(Math.max(...limits))} m` : "—");
+    text("limit", limits.length ? `${number(Math.min(...limits))}\u00a0– ${number(Math.max(...limits))}\u00a0m` : "—");
     const avalanche = detail.avalanche;
     if (avalanche && avalanche.current) {
       $("danger").dataset.level = String(avalanche.level);
