@@ -2,9 +2,9 @@
 
 > Alpow est une app iPhone de prévisions de neige pour les stations de ski françaises des Alpes et des Pyrénées : l'indice poudreuse de chaque station, de 0 à 5, et le bulletin avalanche officiel de Météo-France, affiché mot pour mot et toujours gratuit.
 
-Pour chaque station, Alpow croise quatre modèles météo (AROME et ARPEGE de Météo-France, IFS de l'ECMWF, ICON du DWD) et les résume en l'indice poudreuse, de 0 à 5, avec une confiance qui dépend de l'accord entre les modèles. Chaque prévision affiche son heure de mise à jour et ses sources. Le bulletin d'estimation du risque d'avalanche (BERA) de Météo-France est repris tel que publié, avec le lien vers la source, gratuit pour tout le monde et sans compte ; son texte n'est jamais résumé par une IA, et Alpow n'indique jamais si une pente peut être skiée sans risque. L'app est sans compte, sans publicité et sans outil d'analyse tiers. Elle sort sur l'App Store fin novembre, avec l'ouverture des premières stations, gratuite au lancement.
+Pour chaque station, Alpow croise quatre modèles météo (AROME et ARPEGE de Météo-France, IFS de l'ECMWF, ICON du DWD) et les résume en l'indice poudreuse, de 0 à 5, avec une confiance qui dépend de l'accord entre les modèles. Chaque prévision affiche son heure de mise à jour et ses sources. Le bulletin d'estimation du risque d'avalanche (BERA) de Météo-France est repris tel que publié, avec le lien vers la source, gratuit pour tout le monde et sans compte ; son texte n'est jamais résumé par une IA, et Alpow n'indique jamais si une pente peut être skiée sans risque. L'app est sans compte, sans publicité et sans outil d'analyse tiers. Elle est sur l'App Store, gratuite au lancement.
 
-In English: Alpow is an iPhone app with snow forecasts for French ski resorts in the Alps and the Pyrenees. It blends four weather models into a 0 to 5 Powder score per resort, shows the official Météo-France avalanche bulletin (BERA) word for word and always free, and is coming to the App Store in late November, as the first resorts open.
+In English: Alpow is an iPhone app with snow forecasts for French ski resorts in the Alps and the Pyrenees. It blends four weather models into a 0 to 5 Powder score per resort, shows the official Météo-France avalanche bulletin (BERA) word for word and always free, and is on the App Store.
 
 ## Pages
 
