@@ -9,6 +9,64 @@
           {
             "/": "/s/*",
             "comment": "Resort pages"
+          },
+          {
+            "/": "/stations/chamonix-brevent-flegere/",
+            "exclude": true,
+            "comment": "Slug is not the resort id"
+          },
+          {
+            "/": "/en/resorts/chamonix-brevent-flegere/",
+            "exclude": true,
+            "comment": "Slug is not the resort id"
+          },
+          {
+            "/": "/stations/chamonix-grands-montets/",
+            "exclude": true,
+            "comment": "Slug is not the resort id"
+          },
+          {
+            "/": "/en/resorts/chamonix-grands-montets/",
+            "exclude": true,
+            "comment": "Slug is not the resort id"
+          },
+          {
+            "/": "/stations/alpe-d-huez/",
+            "exclude": true,
+            "comment": "Slug is not the resort id"
+          },
+          {
+            "/": "/en/resorts/alpe-d-huez/",
+            "exclude": true,
+            "comment": "Slug is not the resort id"
+          },
+          {
+            "/": "/stations/font-romeu/",
+            "exclude": true,
+            "comment": "Slug is not the resort id"
+          },
+          {
+            "/": "/en/resorts/font-romeu/",
+            "exclude": true,
+            "comment": "Slug is not the resort id"
+          },
+          {
+            "/": "/stations/cauterets/",
+            "exclude": true,
+            "comment": "Slug is not the resort id"
+          },
+          {
+            "/": "/en/resorts/cauterets/",
+            "exclude": true,
+            "comment": "Slug is not the resort id"
+          },
+          {
+            "/": "/stations/?*/",
+            "comment": "Resort pages (FR)"
+          },
+          {
+            "/": "/en/resorts/?*/",
+            "comment": "Resort pages (EN)"
           }
         ]
       }
