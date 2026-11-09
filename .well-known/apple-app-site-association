@@ -13,5 +13,10 @@
         ]
       }
     ]
+  },
+  "appclips": {
+    "apps": [
+      "S4WRT9TXXJ.app.alpow.ios.Clip"
+    ]
   }
 }
