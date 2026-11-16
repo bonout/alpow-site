@@ -67,6 +67,7 @@ In English: Alpow is an iPhone app with snow forecasts for French ski resorts in
 - [Enneigement à Chamrousse : hauteur de neige et prévisions](https://alpow.bonout.com/stations/chamrousse/) ([en](https://alpow.bonout.com/en/resorts/chamrousse/)) : Isère, Belledonne.
 - [Enneigement à Col de l'Arzelier : hauteur de neige et prévisions](https://alpow.bonout.com/stations/col-de-l-arzelier/) ([en](https://alpow.bonout.com/en/resorts/col-de-l-arzelier/)) : Isère, Vercors.
 - [Enneigement à Col de Marcieu : hauteur de neige et prévisions](https://alpow.bonout.com/stations/col-de-marcieu/) ([en](https://alpow.bonout.com/en/resorts/col-de-marcieu/)) : Isère, Chartreuse.
+- [Enneigement à Col de Plainpalais : hauteur de neige et prévisions](https://alpow.bonout.com/stations/col-de-plainpalais/) ([en](https://alpow.bonout.com/en/resorts/col-de-plainpalais/)) : Savoie, Bauges.
 - [Enneigement à Col de Porte : hauteur de neige et prévisions](https://alpow.bonout.com/stations/col-de-porte/) ([en](https://alpow.bonout.com/en/resorts/col-de-porte/)) : Isère, Chartreuse.
 - [Enneigement à Col de Turini/​Camp d'Argent : hauteur de neige et prévisions](https://alpow.bonout.com/stations/col-de-turini-camp-d-argent/) ([en](https://alpow.bonout.com/en/resorts/col-de-turini-camp-d-argent/)) : Alpes-Maritimes, Mercantour.
 - [Enneigement à Colline des Bains : hauteur de neige et prévisions](https://alpow.bonout.com/stations/colline-des-bains/) ([en](https://alpow.bonout.com/en/resorts/colline-des-bains/)) : Isère, Vercors.
